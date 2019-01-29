@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+dev_appserver.py .
